@@ -1,0 +1,15 @@
+.not-logged-in {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .not-logged-in p {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    font-weight: bold;
+    text-align: center;
+    width: 700px;
+  }

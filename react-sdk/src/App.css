@@ -34,16 +34,6 @@ html, body {
   background-color: #2681F2;
 }
 
-.meeting-header {
-  background-color: #2D8CFF;
-  padding: 10px 20px;
-  border-bottom: 1px solid rgb(238, 238, 238);
-  margin-bottom: 0;
-  color: white;
-  border-radius: 8px 8px 0px 0px;
-  text-align: center;
-}
-
 .meeting-container {
   display: flex;
   background-color: rgb(228, 228, 228);
@@ -84,7 +74,4 @@ html, body {
 .meeting-grid {
   flex: 0 0 23%;
   margin: 1%;
-}
-.helpText{
-  padding: 0px 0px 10px 4px;
 }

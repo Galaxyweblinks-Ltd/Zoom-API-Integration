@@ -18,7 +18,7 @@
 
 1. If you do not have a Node server installed then please install it from here [Download | Node.js (nodejs.org)](https://nodejs.org/en/download).
 
-2. Go to a specific folder, where need to take React Zoom clone from **[https://github.com/Galaxyweblinks-Ltd/Zoom-API-Integration.git](https://github.com/Galaxyweblinks-Ltd/Zoom-API-Integration.git)**
+2. Go to a specific folder, where need to take React Zoom clone from **[http://gitlab.galaxyweblinks.com/root/atg-poc.git](http://gitlab.galaxyweblinks.com/root/atg-poc.git)**
 
 3. Run the “npm install” command on the terminal/cmd.
 

@@ -1,0 +1,9 @@
+.meeting-header {
+    background-color: #2D8CFF;
+    padding: 10px 20px;
+    border-bottom: 1px solid rgb(238, 238, 238);
+    margin-bottom: 0;
+    color: white;
+    border-radius: 8px 8px 0px 0px;
+    text-align: center;
+}
